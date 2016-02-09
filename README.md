@@ -10,6 +10,11 @@ components used:
   
 Description:
 
-NodeA is used as portal.
+NodeA:
+used as portal.
 
-Nodeb B -> connected with USB to UART converter( FTDI chip) -> tries to transmit the data to node A and print in event view window and an LED toggle when a data is received
+NodeB :
+USB to UART converrter(FTDI chip and cool term software) -> RF200 -> data Over the air to other node, data to be printed in event view window and an LED toggle whenever data is received.  
+
+Test :
+- primary test for getting the data from UART is carried out, the code for it is in the reposit.
