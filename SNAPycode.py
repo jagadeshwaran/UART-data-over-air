@@ -33,4 +33,4 @@ def stdinEvent(data):
         
 @setHook(HOOK_1S)
 def eventlogger():
-    print " test: The working of intercepter"
+    print " test: The working of interceptor"
