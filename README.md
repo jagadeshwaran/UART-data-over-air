@@ -12,4 +12,4 @@ Description:
 
 NodeA is used as portal.
 
-Nodeb B -> connected with USB to UART converter( FTDI chip) -> tries to transmit the data to node A and print in event view window
+Nodeb B -> connected with USB to UART converter( FTDI chip) -> tries to transmit the data to node A and print in event view window and an LED toggle when a data is received
